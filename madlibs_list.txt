@@ -3,11 +3,11 @@
 3. analytical
 4. green
 5. April
-6. Six
-7. Leaves
-8. Cities
-9. Hound
-10. Bedroom
+6. Number
+7. Noun (Plural)
+8. Noun (Plural)
+9. Noun
+10. Room Name
 11. Liquid
 12. Adjective
 13. Material
