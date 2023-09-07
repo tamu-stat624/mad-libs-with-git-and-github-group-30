@@ -3,11 +3,11 @@
 3. analytical
 4. green
 5. April
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. six
+7. gadgets
+8. instruments
+9. rocket
+10. Redroom
 11. Liquid
 12. Adjective
 13. Material
