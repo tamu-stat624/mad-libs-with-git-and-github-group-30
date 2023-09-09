@@ -1,4 +1,4 @@
-1. Marty
+1. Joe
 2. funny
 3. analytical
 4. green
@@ -13,7 +13,7 @@
 13. wood
 14. running
 15. slowly
-16. 50
+16. 100
 17. years
 18. hopping
 19. nano
